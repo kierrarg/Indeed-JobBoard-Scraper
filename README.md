@@ -1,2 +1,2 @@
 # Indeed-JobBoard-Scraper
- an indeed job board scraper
+ An indeed job board scraper using selenium
