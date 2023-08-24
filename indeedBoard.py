@@ -9,7 +9,7 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException,
 # Set up logging
 logging.basicConfig(filename='job_scraper.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Define your qualifications or keywords
+# Defining qualification
 qualifications_keywords = ["C++", "Python", "React", "SQL", "IT", "Unreal Engine", "OOP", "HTML", "CSS", "JavaScript"]
 
 # Initialize the WebDriver
